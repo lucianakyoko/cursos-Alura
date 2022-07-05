@@ -21,7 +21,8 @@ Repositório destinado para organizar as anotações das aulas, exercícios e pr
 # Node
 | --- | :file_folder: Nome do curso | :link: Projeto | Status |
 | --- | --- | --- | --- |
-| 1.1 | [Node.JS: API Rest com Express e MongoDB](./livraria-alura) | Alura Livros | :orange_book: em andamento |
+| 3.1 | [Node.JS: API Rest com Express e MongoDB](./livraria-alura) | Alura Livros | :orange_book: em andamento |
+| 3.2 | [GraphQL: Construindo uma API com Apollo Server](./escola-ingles/) | Escola de Inglês | :orange_book: em andamento |
 
 
 <!-- 
