@@ -22,6 +22,13 @@
 
 # Aula 2
 :books: Aprendizados da aula:
+<ul>
+  <li>Organizar a aplicação em camadas e vincular o schema do Apollo Server</li>
+  <li>Criar um ponto de entrada para a API através de um tipo Query</li>
+  <li>Subir o servidor GraphQL</li>
+  <li>Criar resolvers para implementar as definições do schema</li>
+  <li>Utilizar o Playground para fazer testes e consultar a documentação automática</li>
+</ul>
 
 # Aula 3
 :books: Aprendizados da aula:
