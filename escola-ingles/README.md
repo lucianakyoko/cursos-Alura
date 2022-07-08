@@ -32,6 +32,14 @@
 
 # Aula 3
 :books: Aprendizados da aula:
+<ul>
+  <li>Conectar com uma base de dados (endpoints rest)</li>
+  <li>Unir schema, resolver e dados</li>
+  <li>Parâmetros do resolver para que servem</li>
+  <li>Como utilizar parâmetros no GraphQL</li>
+  <li>Utilizar parâmetros nas queries</li>
+  <li>Trabalhar com dados de diferentes fontes/endpoints</li>
+</ul>
 
 # Aula 4
 :books: Aprendizados da aula:
