@@ -43,6 +43,12 @@
 
 # Aula 4
 :books: Aprendizados da aula:
+<ul>
+  <li>Criar mutations para alteração de dados</li>
+  <li>Como inserir e alterar dados em objetos que recebem outros objetos como campo</li>
+  <li>Utilizar o resolver para implementar mutations</li>
+</ul>
+
 
 # Aula 5
 :books: Aprendizados da aula:
