@@ -16,6 +16,7 @@ Repositório destinado para organizar as anotações das aulas, exercícios e pr
 # React
 | --- | :file_folder: Nome do curso | :link: Projeto | Status |
 | --- | --- | --- | --- |
+| 2.1 | [React: desenvolvendo com JavaScript](./Oregano) | Oregano | :orange_book: em andamento |
 | --- | --- | --- | --- |
 
 # Node
