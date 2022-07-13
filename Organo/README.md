@@ -21,6 +21,12 @@
 
 # Aula 2
 :books: Aprendizados da aula:
+<ul>
+  <li>Aprendemos como passar props para um componente;</li>
+  <li>Renderizamos listas com o .map;</li>
+  <li>Trabalhamos com elementos aninhados usando a prop children;</li>
+  <li>Ouvimos elementos disparados pelo DOM: o onSubmit do nosso form.</li>
+</ul>
 
 
 # Aula 3
