@@ -31,6 +31,11 @@
 
 # Aula 3
 :books: Aprendizados da aula:
+<ul>
+  <li>Controlar inputs utilizando value e onChange;</li>
+  <li>Gerenciar o estado de um componente, utilizando o useState;</li>
+  <li>Trabalhar com props que são funções.</li>
+</ul>
 
 
 # Aula 4
