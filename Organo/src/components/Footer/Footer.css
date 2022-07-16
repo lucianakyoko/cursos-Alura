@@ -1,0 +1,20 @@
+.rodape {
+  background-color: #6278F7;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px;
+}
+
+.rodape ul {
+  display: flex;
+  gap: 32px;
+}
+
+.rodape ul li {
+  list-style: none;
+}
+
+.rodape span {
+  color: #FFF;
+}
