@@ -40,6 +40,11 @@
 
 # Aula 4
 :books: Aprendizados da aula:
+<ul>
+  <li>Manipular e transformar arrays de objetos</li>
+  <li>Filtrar itens de um array</li>
+  <li>Renderização condicional</li>
+</ul>
 
 
 # Aula 5
