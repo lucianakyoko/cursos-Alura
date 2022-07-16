@@ -5,6 +5,7 @@ Repositório destinado para organizar as anotações das aulas, exercícios e pr
   <a href="#javascript">JavaScript</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#react">React</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#node">Node.Js</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#typescript">TypeScript</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -25,6 +26,10 @@ Repositório destinado para organizar as anotações das aulas, exercícios e pr
 | 3.1 | [Node.JS: API Rest com Express e MongoDB](./livraria-alura) | Alura Livros | :green_book: concluído |
 | 3.2 | [GraphQL: Construindo uma API com Apollo Server](./escola-ingles/) | Escola de Inglês | :orange_book: em andamento |
 
+# TypeScript
+| --- | :file_folder: Nome do curso | :link: Projeto | Status |
+| --- | --- | --- | --- |
+| 4.1 | [TypeScript parte 1 - evoluindo seu JavaScript](./alurabank/) | Alurabank | :orange_book: em andamento |
 
 <!-- 
 :closed_book: pendente
