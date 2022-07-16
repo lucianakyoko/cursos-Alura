@@ -49,3 +49,8 @@
 
 # Aula 5
 :books: Aprendizados da aula:
+<ul>
+  <li>Ler e interpretar mensagens de erro</li>
+  <li>Corrigir erros</li>
+  <li>Depurar o seu código com o debugger</li>
+</ul>
