@@ -16,7 +16,7 @@ Repositório destinado para organizar as anotações das aulas, exercícios e pr
 # React
 | --- | :file_folder: Nome do curso | :link: Projeto | Status |
 | --- | --- | --- | --- |
-| 2.1 | [React: desenvolvendo com JavaScript](./Organo) | Organo | :orange_book: em andamento |
+| 2.1 | [React: desenvolvendo com JavaScript](./Organo) | [Organo](https://organo-eta.vercel.app/) | :green_book: concluído |
 | --- | --- | --- | --- |
 
 # Node
